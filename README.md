@@ -1,4 +1,1 @@
-# deadinside
-andrew
-2.2
-ISaT
+#oop_lab1_task1
